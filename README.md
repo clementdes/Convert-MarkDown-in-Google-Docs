@@ -42,7 +42,3 @@ Feel free to fork this repository and submit pull requests to enhance the script
 
 ## License
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
-
----
-
-You can customize this README to better fit your project's needs or to add any additional information that you think might be helpful to users.
